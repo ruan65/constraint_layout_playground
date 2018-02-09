@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ConstraintLayoutDemo</string>
     <string name="header_description">Header Image</string>
+    <string name="btn_rent">BUY $11.99</string>
+    <string name="btn_buy">RENT $2.99</string>
+    <string name="tv_pg_text">PG 13 | Comedy | 113 min</string>
+    <string name="movie_title">Beauty and the Beast</string>
 </resources>
